@@ -1,0 +1,52 @@
+.borderRed {
+    border: solid red 1px;
+}
+
+.borderBlue {
+    border: solid blue 1px;
+}
+
+.borderGreen {
+    border: solid green 1px;
+}
+
+.borderYellow {
+    border: solid green 1px;
+}
+
+.borderYellow {
+    border: solid pink 1px;
+}
+
+body{
+    background-color: #821818;
+}
+
+.altoSeccionRespuesta{
+    height: 300px;
+}
+
+.imgPokebola {
+    width: 100%;
+    height: 300px;
+}
+
+.respuestaBackground{
+    background-color: #086375;
+}
+
+.infoGreenBackground{
+    background-color: rgb(116, 178, 187, 0.5);
+}
+
+.contornoSeccionRespuestaBG{
+    background-color: #c5c5c5;
+}
+
+.imgPokebolaHeightSmall{
+    height: 200px;
+}
+
+.alignItemsCenter{
+    align-items: center;
+}
